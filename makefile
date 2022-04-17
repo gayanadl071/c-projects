@@ -1,4 +1,4 @@
-ABC.exe:main.o biggest3.o factorial.o reverse.o
+ABC.exe:main.o biggest3.o factorial.o reverse.o 
 	gcc -o ABC.exe main.o biggest3.o factorial.o reverse.o
 main.o:main.c
 	gcc -c main.c
