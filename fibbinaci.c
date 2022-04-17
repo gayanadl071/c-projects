@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-void main()
+void fibbi()
 {
     int  fib1 = 0, fib2 = 1, fib3, limit, count = 0;
  

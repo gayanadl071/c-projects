@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-void swap(float *ptr1, float  *ptr2);
+void swp(float *ptr1, float  *ptr2);
  
 void main()
 {
