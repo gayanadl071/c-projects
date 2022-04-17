@@ -1,8 +1,8 @@
 
 #include <stdio.h>
-void swp(float *ptr1, float  *ptr2);
+void swap(float *ptr1, float  *ptr2);
  
-void main()
+void swp()
 {
     float m, n;
  
