@@ -1,7 +1,10 @@
+
 #include <stdio.h>
 void swap(float *ptr1, float  *ptr2);
  
 void main()
+
+
 {
     float m, n;
  
