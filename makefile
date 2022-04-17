@@ -11,7 +11,7 @@ reverse.o:reverse.c
 palindrome.o:palindrome.c
 	gcc -c palindrome.c
 fibbanci.o:fibbanci.c
-	gcc - fibbanci.c
+	gcc -c fibbanci.c
 swap.o:swap.c
 	gcc -c swap.c	
 
